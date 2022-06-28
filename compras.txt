@@ -2,3 +2,4 @@ papas
 batatas 
 bananas
 arroz
+harina vegetales
